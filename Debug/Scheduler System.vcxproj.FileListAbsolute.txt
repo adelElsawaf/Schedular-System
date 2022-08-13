@@ -1,0 +1,2 @@
+D:\Programming\Scheduler Project DS\Scheduler System\Debug\Scheduler System.exe
+D:\Programming\Scheduler Project DS\Scheduler System\Debug\Scheduler System.pdb
